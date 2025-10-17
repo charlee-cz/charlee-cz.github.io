@@ -43,6 +43,10 @@ Otherwise, **this version of the Debian software (TODO: add link to appropriate 
 
 - [Test version](https://rcn-ee.net/rootfs/bb.org/testing/2017-08-01/lxqt-4gb/) - somehow found it digging through really old forums
 
+## Mounting Design
+
+[Reference for mech mounting of this chip](https://www.ti.com/lit/an/dlpa069/dlpa069.pdf?ts=1760743229866) 
+
 ## Debugging start-up for the EVM
 
 The EVM runs through some procedures upon start-up, which you can check the status of using the LEDs near the optical engine.
