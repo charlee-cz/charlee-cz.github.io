@@ -47,6 +47,8 @@ Otherwise, **this version of the Debian software (TODO: add link to appropriate 
 
 [Reference for mech mounting of this chip](https://www.ti.com/lit/an/dlpa069/dlpa069.pdf?ts=1760743229866) 
 
+As it turns out, this is available: https://www.ti.com/tool/download/DLPR067
+
 ## Debugging start-up for the EVM
 
 The EVM runs through some procedures upon start-up, which you can check the status of using the LEDs near the optical engine.
